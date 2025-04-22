@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+uvicorn[standard]
+strawberry-graphql[fastapi]
+langchain_openai
+langchain_core
